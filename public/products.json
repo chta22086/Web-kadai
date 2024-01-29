@@ -1,564 +1,158 @@
 [
     {
-      "name" : "ゼイタクビョウ",
-      "image" : "sample1.jpg",
-      "type" : "アルバム",
+      "name" : "Cartoon - On&On",
+      "image" : "sample1.jpeg",
       "songs" : [
         {
-            "name": "1.内秘心書",
-            "youtubeLink": "https://youtu.be/NB3kSOrYlqE?si=8B28Y4iLELUM35q_"
-        },
-        {
-            "name": "2.Borderline",
-            "youtubeLink": "https://youtu.be/iCFVHaW0YS4?si=s9B0D6bGQD9tEXoG"
-        },
-        {
-            "name": "3.(you can do)everything",
-            "youtubeLink": "https://youtu.be/WEZHSM42-wI?si=uVUKiuouVjGY0rPo"
-        },
-        {
-            "name": "4.夜にしか咲かない満月",
-            "youtubeLink": "https://youtu.be/IAwe1S0vIdg?si=H2n5Rq0iKOxOXHKJ"
-        },
-        {
-            "name": "5.努努-ゆめゆめ-",
-            "youtubeLink": "https://youtu.be/edjAvql0VHU?si=GaRdyAkMmIpwd4ku"
-        },
-        {
-            "name": "6.カゲロウ",
-            "youtubeLink": "https://youtu.be/dU2gmNmIzvQ?si=tQ_aoMdd6_goZYBA"
-        },
-        {
-            "name": "7.Lujo",
-            "youtubeLink": "https://youtu.be/4UJbrF-YWKw?si=kwLHY7ktaBQDXle_"
-        },
-        {
-            "name": "8.ケムリ",
-            "youtubeLink": "https://youtu.be/S3rkEswon_s?si=7K35u6CX12x8l_bk"
-        },
-        {
-            "name": "9.欲望に満ちた青年団",
-            "youtubeLink": "https://youtu.be/Ds6GfTt_Lv8?si=amkCCHVIObq_L_Wc"
-        },
-        {
-            "name": "10.エトセトラ",
-            "youtubeLink": "https://youtu.be/-Xyc2QztNbY?si=ocVXy5KGTCjw-Lwb"
-        },
-        {
-            "name": "11.A new one for all,All for the new one",
-            "youtubeLink": "https://youtu.be/-Ry4i1fzcuA?si=KsgTrzRdqXyk9gdE"
+            "name": "Cartoon - On&On",
+            "youtubeLink": "https://youtu.be/K4DyBUG242c?si=QrlG5UTt0imeh_5D",
+            "popularity": 500000000,
+            "data": "2015-07-10"
         }
     ]
     },
     {
-      "name" : "BEAM OF LIGHT",
-      "image" : "sample2.jpg",
-      "type" : "アルバム",
+      "name" : "Janji - Heroes Tonight",
+      "image" : "sample2.jpeg",
       "songs" : [
         {
-            "name": "1.必然メーカー",
-            "youtubeLink": "https://youtu.be/lNpga8wleT4?si=htRhZfTdqAb2Y6M9"
-        },
-        {
-            "name": "2.Melody Lineの死亡率",
-            "youtubeLink": "https://youtu.be/MdvNpGntkFw?si=N1KozlR2vlsIkDTy"
-        },
-        {
-            "name": "3.100%(hundred percent)",
-            "youtubeLink": "https://youtu.be/7Y6PciZp6jY?si=2ZKh91yMrI53FeiH"
-        },
-        {
-            "name": "4.Abduction-Interlude",
-            "youtubeLink": "https://youtu.be/okuLqSUa24w?si=v-ydXsCi-dO8Zwiu"
-        },
-        {
-            "name": "5.燦さん星",
-            "youtubeLink": "https://youtu.be/Ij-1tm1HjeM?si=NMUAgKj6zrbgMt7l"
-        },
-        {
-            "name": "6.光芒",
-            "youtubeLink": "https://youtu.be/zu-jyztfpDs?si=6j64o6QGdfaH9zhB"
-        },
-        {
-            "name": "7.Crazy Botch",
-            "youtubeLink": "https://youtu.be/STkpwR2wO_A?si=EN-JYdrKhL9G11_k"
-        },
-        {
-            "name": "8.Yap",
-            "youtubeLink": "https://youtu.be/w9pcuWfcn1k?si=-4DfoFxKAeNcNlWl"
+            "name": "Janji - Heroes Tonight",
+            "youtubeLink": "https://youtu.be/3nQNiWdeH2Q?si=KxHg3R4C5EDq76t6",
+            "popularity": 320000000,
+            "data": "2015-06-10"
         }
     ]
     },
     {
-      "name" : "感情エフェクト",
-      "image" : "sample3.jpg",
-      "type" : "アルバム",
+      "name" : "DEAF KEV - Invincible",
+      "image" : "sample3.jpeg",
       "songs" : [
         {
-            "name": "1.恋ノアイボウ心ノクピド",
-            "youtubeLink": "https://youtu.be/dyIsBRIIX84?si=NSM3qMqp3CRjwXXV"
-        },
-        {
-            "name": "2.どっぺるゲンガー",
-            "youtubeLink": "https://youtu.be/yRN7SXA7q7Y?si=Wd4HCZWFkHmilGJM"
-        },
-        {
-            "name": "3.皆無",
-            "youtubeLink": "https://youtu.be/ywkD1PVOKt8?si=4zIDD0uQPnZQLsV4"
-        },
-        {
-            "name": "4.20 years old",
-            "youtubeLink": "https://youtu.be/alyTE1Ev51Y?si=B5o3nLm_EdMCQjJI"
-        },
-        {
-            "name": "5.Living Dolls",
-            "youtubeLink": "https://youtu.be/hcaUZhegXo0?si=ou1VU9oF2DpSqbAR"
-        },
-        {
-            "name": "6.Break My Strings",
-            "youtubeLink": "https://youtu.be/psZXbZMFzi8?si=Cr9IL6MCBiA7s-dp"
-        },
-        {
-            "name": "7.存在証明",
-            "youtubeLink": "https://youtu.be/GpT6fq9CFsY?si=eJqtEZ4HWgwjkPwN"
-        },
-        {
-            "name": "8.CONVINCING",
-            "youtubeLink": "https://youtu.be/j2tG33zjKAU?si=5U7gpM6Q9hZKFkel"
-        },
-        {
-            "name": "9.My sweet baby",
-            "youtubeLink": "https://youtu.be/omYVn7se1ig?si=lGK73umu6qkomuKp"
-        },
-        {
-            "name": "10.Reflection",
-            "youtubeLink": "https://youtu.be/aGC5WB9Vmjk?si=w9BVRo7ChrfhFK5-"
-        },
-        {
-            "name": "11.Viva Violent Fellow~美しきモッシュピット~",
-            "youtubeLink": "https://youtu.be/FJSJqdGa8LY?si=2qtaNWPXG-TwdTzZ"
-        },
-        {
-            "name": "12.JUST",
-            "youtubeLink": "https://youtu.be/j05fDZQPcng?si=j_GJ3bHttLZRJ1IW"
+            "name": "DEAF KEV - Invincible",
+            "youtubeLink": "https://youtu.be/J2X5mJ3HDYE?si=GEqLqH7UcABmzbrO",
+            "popularity": 270000000,
+            "data": "2015-05-15"
         }
     ]
     },
     {
-      "name" : "Nicheシンドローム",
-      "image" : "sample4.jpg",
-      "type" : "アルバム",
+      "name" : "Different Heaven & EH!DE",
+      "image" : "sample4.jpeg",
       "songs" : [
         {
-            "name": "1.Introduction",
-            "youtubeLink": "https://youtu.be/U8Qic6IAF9g?si=MeI7x9jGGXCbCl41"
-        },
+            "name": "Different Heaven & EH!DE",
+            "youtubeLink": "https://youtu.be/jK2aIUmmdP4?si=YiGufvAxWvPGHk1l",
+            "popularity": 260000000,
+            "data": "2013-11-14"
+        }
+    ]  
+    },
+    {
+      "name" : "Warriyo - Mortals",
+      "image" : "sample5.jpeg",
+      "songs" : [
         {
-            "name": "2.Never Let This Go",
-            "youtubeLink": "https://youtu.be/0LfJ9LWVtio?si=sWqKvW3htGj9ssA7"
-        },
-        {
-            "name": "3.完全感覚Dreamer",
-            "youtubeLink": "https://youtu.be/xGbxsiBZGPI?si=yNqSi3L1btofo0GE"
-        },
-        {
-            "name": "4.混雑コミュニケーション",
-            "youtubeLink": "https://youtu.be/lV1SY63yKlE?si=MT1nx28soKsc8nVP"
-        },
-        {
-            "name": "5.Yes I am",
-            "youtubeLink": "https://youtu.be/5rhC1sFnP8U?si=dcrqYUP7hhorltEM"
-        },
-        {
-            "name": "6.Shake it down",
-            "youtubeLink": "https://youtu.be/ziT2bGGmHOQ?si=gVzW4UBWi1pUqP3V"
-        },
-        {
-            "name": "7.じぶんROCK",
-            "youtubeLink": "https://youtu.be/Y_tUf_-Xz44?si=VFskyqJDLP6DANVT"
-        },
-        {
-            "name": "8.Liar",
-            "youtubeLink": "https://youtu.be/osr0JxHm9nY?si=UM7X4zDO3u9RtRkO"
-        },
-        {
-            "name": "9.Wherever you are",
-            "youtubeLink": "https://youtu.be/eoQAnGx4Pss?si=_K6TTCeKbpWer0-F"
-        },
-        {
-            "name": "10.Riot!!!",
-            "youtubeLink": "https://youtu.be/tOZq4MTUCL0?si=WWQdyoiN9FCGcVnI"
-        },
-        {
-            "name": "11.アダルトスーツ",
-            "youtubeLink": "https://youtu.be/eL3J36j5aBg?si=ikVkwwftDzCVZ8UL"
-        },
-        {
-            "name": "12.未完成交響曲",
-            "youtubeLink": "https://youtu.be/VmILu7KTDEw?si=iazhElyzTSrAIpx4"
-        },
-        {
-            "name": "13.Nobody's Home",
-            "youtubeLink": "https://youtu.be/cLID5syshCY?si=_H5q6FVY0tUDZbmS"
+            "name": "Warriyo - Mortals",
+            "youtubeLink": "https://youtu.be/yJg-Y5byMMw?si=-rvy1N7AfSnAWav2",
+            "popularity": 250000000,
+            "data": "2016-12-16"
         }
     ]
     },
     {
-      "name" : "残響リファレンス",
-      "image" : "sample5.jpg",
-      "type" : "アルバム",
+      "name" : "Disfigure - Blank",
+      "image" : "sample6.jpeg",
       "songs" : [
         {
-            "name": "1.Coda",
-            "youtubeLink": "https://youtu.be/A_TK7nSOBjc?si=ECv2UGChrkkzzq4W"
-        },
-        {
-            "name": "2.LOST AND FOUND",
-            "youtubeLink": "https://youtu.be/nOKLriKsBVE?si=MLzd8WXwF93h3NP9"
-        },
-        {
-            "name": "3.アンサイズニア",
-            "youtubeLink": "https://youtu.be/WgjgACnHuWQ?si=YE4Y1VZllhSdnIzy"
-        },
-        {
-            "name": "4.NO SCARED",
-            "youtubeLink": "https://youtu.be/qKW4lqj2cNU?si=AFxNrOP_JMucFSlO"
-        },
-        {
-            "name": "5.C.h.a.o.s.m.y.t.h.",
-            "youtubeLink": "https://youtu.be/C-xF2MAFw5s?si=ybFtb3dD9hWwill0"
-        },
-        {
-            "name": "6.Mr.現代Speaker",
-            "youtubeLink": "https://youtu.be/JYRGSKk9CGw?si=LR1l4kTYzcLp4-3r"
-        },
-        {
-            "name": "7.世間知らずの宇宙飛行士",
-            "youtubeLink": "https://youtu.be/R5jo1QpPD6s?si=-terXcOFrkwAlu1a"
-        },
-        {
-            "name": "8.Re:make",
-            "youtubeLink": "https://youtu.be/bV4vcr8E4HU?si=p6xLH7LuoTDJ1UGR"
-        },
-        {
-            "name": "9.Pierce",
-            "youtubeLink": "https://youtu.be/BnN3Y8P9d_w?si=zWUGq20HxDFIu3yo"
-        },
-        {
-            "name": "10.Let's take it someday",
-            "youtubeLink": "https://youtu.be/XUofa8DacL8?si=ClCjKTVsFlriwaiI"
-        },
-        {
-            "name": "11.キミシダイ列車",
-            "youtubeLink": "https://youtu.be/GtyivRFy07c?si=p2JfE5MFOQvL9j6t"
+            "name": "Disfigure - Blank",
+            "youtubeLink": "https://youtu.be/p7ZsBPK656s?si=9S_skEuY8rY4a2Ex",
+            "popularity": 240000000,
+            "data": "2013-05-02"
         }
     ]
     },
     {
-      "name" : "人生×僕=",
-      "image" : "sample6.jpg",
-      "type" : "アルバム",
+      "name" : "Elektronomia - Sky High",
+      "image" : "sample7.jpeg",
       "songs" : [
         {
-            "name": "1.Introduction~Where idiot should go~",
-            "youtubeLink": "https://youtu.be/VDtkqYQ0PXM?si=A0LUCNwOQXqJYB_E"
-        },
-        {
-            "name": "2.Ending Story??",
-            "youtubeLink": "https://youtu.be/PABidyJtpwU?si=VxF8EzsEQPxM605H"
-        },
-        {
-            "name": "3.ONION!",
-            "youtubeLink": "https://youtu.be/M1RWPdSVoE4?si=pJXw7Dm04eo81_Gb"
-        },
-        {
-            "name": "4.The Beginning",
-            "youtubeLink": "https://youtu.be/Hh9yZWeTmVM?si=vyYY33YlMfi0fOas"
-        },
-        {
-            "name": "5.Clock Strikes",
-            "youtubeLink": "https://youtu.be/6YZlFdTIdzM?si=O05gP4BV-dR6P4ZG"
-        },
-        {
-            "name": "6.Be the light",
-            "youtubeLink": "https://youtu.be/drSMZgnmJjk?si=Pqyx1pd8tbVVS3Le"
-        },
-        {
-            "name": "7.Nothing Helps",
-            "youtubeLink": "https://youtu.be/ZA7KmgO4wCk?si=i48S1vgx6DTmxEG3"
-        },
-        {
-            "name": "8.Juvenlie",
-            "youtubeLink": "https://youtu.be/P0sscy4aaQc?si=F4ptBKGnil77bSYl"
-        },
-        {
-            "name": "9.All Mine",
-            "youtubeLink": "https://youtu.be/ZTkiIpufkQU?si=KIH0NdOiBDpfL0rz"
-        },
-        {
-            "name": "10.Smiling down",
-            "youtubeLink": "https://youtu.be/8eCLD3iS_LQ?si=e_zLkfySkRieGynN"
-        },
-        {
-            "name": "11.Deeper Deeper",
-            "youtubeLink": "https://youtu.be/tcBBNB5JTOQ?si=ngi0oKfIn-Li2E_Q"
-        },
-        {
-            "name": "12.69",
-            "youtubeLink": "https://youtu.be/KAMND_BOSQI?si=NN7He4xquEJKGDCE"
-        },
-        {
-            "name": "13.the same as...",
-            "youtubeLink": "https://youtu.be/uhlV8snLyuI?si=ynz2Yy2mH0CDYkr6"
-        }
-    ]
-    },
-    {
-      "name" : "35xxxv",
-      "image" : "sample7.jpg",
-      "type" : "アルバム",
-      "songs" : [
-        {
-            "name": "1.3xxxv5",
-            "youtubeLink": "https://youtu.be/mzdijqsXJsA?si=1zD7sPKHLr5wasFn"
-        },
-        {
-            "name": "2.Take me to the top",
-            "youtubeLink": "https://youtu.be/IV_8MiLEOOg?si=RUuIDSNhtnF9vMiO"
-        },
-        {
-            "name": "3.Cry out",
-            "youtubeLink": "https://youtu.be/JWSRqWpWPzE?si=iHbdEaqJsRD1WAVp"
-        },
-        {
-            "name": "4.Suddenly",
-            "youtubeLink": "https://youtu.be/YSG8LR9gSZo?si=CqaRgdRkLvna2_1W"
-        },
-        {
-            "name": "5.Mighty Long Fall",
-            "youtubeLink": "https://youtu.be/UjZqcDYbvAE?si=02A0WvRnQMDZMS8s"
-        },
-        {
-            "name": "6.Heartache",
-            "youtubeLink": "https://youtu.be/8FhnzRZIqOw?si=ErTKukck2r_lsoK8"
-        },
-        {
-            "name": "7.Memories",
-            "youtubeLink": "https://youtu.be/U0YeFu8GgBA?si=sbON6s3i8BZoZWj_"
-        },
-        {
-            "name": "8.Decision",
-            "youtubeLink": "https://youtu.be/yM-8Ku2S_Cs?si=iwAKu0SZCEPNd9vH"
-        },
-        {
-            "name": "9.Paper Planes(feat.Kellin from Sleeping with Sirens)",
-            "youtubeLink": "https://youtu.be/N4vzKDusG88?si=YlWiJg-wCAGCEJFb"
-        },
-        {
-            "name": "10.Good Goodbye",
-            "youtubeLink": "https://youtu.be/-gIVmYL2BZg?si=FMI0-9vHuY0WDoW1"
-        },
-        {
-            "name": "11.One by One",
-            "youtubeLink": "https://youtu.be/xrwVtmunw8Y?si=HotqrXGh2ltmKfPP"
-        },
-        {
-            "name": "12.Stuck in the middle",
-            "youtubeLink": "https://youtu.be/KgDMwtUD6Mo?si=2eCAu30cP_p_a7eL"
-        },
-        {
-            "name": "13.Fight the night",
-            "youtubeLink": "https://youtu.be/38axc1KnVx8?si=MLT-KLIQi7lUpy9G"
-        }
-    ]
-    },
-    {
-      "name" : "Ambitions",
-      "image" : "sample8.jpg",
-      "type" : "アルバム",
-      "songs" : [
-        {
-            "name": "1.Ambitions-Introduction-",
-            "youtubeLink": "https://youtu.be/gjimvLFE4Fg?si=209a3CzaKxnwyRGa"
-        },
-        {
-            "name": "2.Bombs away",
-            "youtubeLink": "https://youtu.be/5bdVC3JeTuE?si=pbk9QDaL5JNvUYw-"
-        },
-        {
-            "name": "3.Taking Off",
-            "youtubeLink": "https://youtu.be/_1NU-YkY3dk?si=DAsVO2uFj2Ix7aOb"
-        },
-        {
-            "name": "4.We are",
-            "youtubeLink": "https://youtu.be/CRLLWNIqb8w?si=fAYdgMwlz1Hf_F-R"
-        },
-        {
-            "name": "5.20/20",
-            "youtubeLink": "https://youtu.be/9ep1vnFIuvY?si=XlIN6EZp74VyxI2_"
-        },
-        {
-            "name": "6.Always coming back",
-            "youtubeLink": "https://youtu.be/d8ONzv-Vc0k?si=sTud2BkhLHL5tgP3"
-        },
-        {
-            "name": "7.Bedroom Warfare",
-            "youtubeLink": "https://youtu.be/a0mnMzAAv7Q?si=wbdMBzpgriIVdZzs"
-        },
-        {
-            "name": "8.Lost in Tonight",
-            "youtubeLink": "https://youtu.be/un87qT9vETo?si=5Xh2wv7tpVA0IIQa"
-        },
-        {
-            "name": "9.I was King",
-            "youtubeLink": "https://youtu.be/8pN4CuOPyEo?si=oohE3e-lZv98IbSm"
-        },
-        {
-            "name": "10.Listen(featuring Avril Lavigne)",
-            "youtubeLink": "https://youtu.be/CPb_dzhRZcA?si=lA_-kMWRWDmzPnwk"
-        },
-        {
-            "name": "11.One Way Ticket",
-            "youtubeLink": "https://youtu.be/boxiLZasn60?si=rMb5Mu8o43yE8zAW"
-        },
-        {
-            "name": "12.Bon Voyage",
-            "youtubeLink": "https://youtu.be/a7HhnAGmUPI?si=5_QhgH627-ujbywj"
-        },
-        {
-            "name": "13.Start Again",
-            "youtubeLink": "https://youtu.be/GJ44A0EzMg4?si=FcrVebUH9lohy-yK"
-        },
-        {
-            "name": "14.Take what you want(featuring 5 Seconds of Summer)",
-            "youtubeLink": "https://youtu.be/XjDj-MNHwxE?si=9nOPGnY6OSGy-YfA"
+            "name": "Elektronomia - Sky High",
+            "youtubeLink": "https://youtu.be/TW9d8vYrVFQ?si=gO4M5FknokfvMY29",
+            "popularity": 240000000,
+            "data": "2017-01-03"
         }
     ] 
     },
     {
-      "name" : "Eye of the Storm",
-      "image" : "sample9.jpg",
-      "type" : "アルバム",
+      "name" : "Cartoon - Why We Lose",
+      "image" : "sample8.jpeg",
       "songs" : [
         {
-            "name": "1.Eye of the Storm",
-            "youtubeLink": "https://youtu.be/V8qc4YqApFQ?si=y4ZHlcPxWtEINmyH"
-        },
-        {
-            "name": "2.Stand Out Fit In",
-            "youtubeLink": "https://youtu.be/IGInsosP0Ac?si=iO3XU6qPq6NLfMwX"
-        },
-        {
-            "name": "3.Head High",
-            "youtubeLink": "https://youtu.be/uHnTzog3lMU?si=oa4ZxlPxEbY_bXHz"
-        },
-        {
-            "name": "4.Grow Old Die Young",
-            "youtubeLink": "https://youtu.be/7DG36Q0tsMI?si=ZGfkr0pvzhexxK88"
-        },
-        {
-            "name": "5.Push Back",
-            "youtubeLink": "https://youtu.be/E4MwhuWg_9k?si=sDa-U17RBC81Fb7e"
-        },
-        {
-            "name": "6.Wasted Nights",
-            "youtubeLink": "https://youtu.be/b4YLo74OWfY?si=FCZicIh5of55BuAH"
-        },
-        {
-            "name": "7.Change",
-            "youtubeLink": "https://youtu.be/ha6Fy_LeWtI?si=ZRmFjdBVOhPEn-sM"
-        },
-        {
-            "name": "8.Letting Go",
-            "youtubeLink": "https://youtu.be/dlRc24TQQkM?si=jQ-oV-b_VzSGUt_8"
-        },
-        {
-            "name": "9.Worst in Me",
-            "youtubeLink": "https://youtu.be/4ciRJVTg5c4?si=oa_8QoptXPUTEOjp"
-        },
-        {
-            "name": "10.In the Stars(feat.Kiiara)",
-            "youtubeLink": "https://youtu.be/v6DAkSjJKEk?si=rMXrKN9d0LDEjaNb"
-        },
-        {
-            "name": "11.Giants",
-            "youtubeLink": "https://youtu.be/jvyLFtIyxpQ?si=zRu2DfUJ1yA9TyTa"
-        },
-        {
-            "name": "12.Can't Wait",
-            "youtubeLink": "https://youtu.be/KyoFKobSfXI?si=BldTOVDg8kl1rN_t"
-        },
-        {
-            "name": "13.The Last Time",
-            "youtubeLink": "https://youtu.be/8gBfG__pWks?si=qrhk0gxvrfXYh61e"
+            "name": "Cartoon - Why We Lose",
+            "youtubeLink": "https://youtu.be/zyXmsVwZqX4?si=nW9vJY-6DkWNCDYL",
+            "popularity": 220000000,
+            "data": "2015-06-14"
         }
     ]
     },
     {
-      "name" : "Luxury Disease",
-      "image" : "sample10.jpg",
-      "type" : "アルバム",
+      "name" : "Electro-Light - Symbolism",
+      "image" : "sample9.jpeg",
       "songs" : [
         {
-            "name": "1.Save Yourself",
-            "youtubeLink": "https://youtu.be/YdWJmKSVf5c?si=TAfL-L6hYpWHKyDH"
-        },
-        {
-            "name": "2.Neon",
-            "youtubeLink": "https://youtu.be/Zqk3eX4j_qc?si=d9yFNA-32_fGYG0Q"
-        },
-        {
-            "name": "3.Vandalize",
-            "youtubeLink": "https://youtu.be/fnyzHd2PoS0?si=hPBTZsAmTGogowAM"
-        },
-        {
-            "name": "4.When They Turn the Lights On",
-            "youtubeLink": "https://youtu.be/JLU_XfOMaZ4?si=x59LF2qt2UgKWKAp"
-        },
-        {
-            "name": "5.Let Me Let You Go",
-            "youtubeLink": "https://youtu.be/uA832zpafis?si=ia-hLmCWpJORvKcz"
-        },
-        {
-            "name": "6.So Far Gone",
-            "youtubeLink": "https://youtu.be/9VghlKeZxyc?si=SfppUx9j3DGU3DOt"
-        },
-        {
-            "name": "7.Prove",
-            "youtubeLink": "https://youtu.be/_oMYtIRslQ0?si=u4ucQmM06IcK4zTB"
-        },
-        {
-            "name": "8.Mad World",
-            "youtubeLink": "https://youtu.be/aNfhKnFedrE?si=Uff32kNmycY3IWfz"
-        },
-        {
-            "name": "9.Free Them(feat.Teddy Swims)",
-            "youtubeLink": "https://youtu.be/FfJW7h9QNwk?si=R5tjtw5SiHPtkbl9"
-        },
-        {
-            "name": "10.Renegades",
-            "youtubeLink": "https://youtu.be/Ajr18Yw5xdY?si=wkaaugCl1X9CG74-"
-        },
-        {
-            "name": "11.Outta Sight",
-            "youtubeLink": "https://youtu.be/QRpNC7fuyks?si=hCbPu6ewIpHPOhKo"
-        },
-        {
-            "name": "12.Your Tears are Mine",
-            "youtubeLink": "https://youtu.be/hIBsET0inRU?si=Mh0g7Iw8d6Q6EBjQ"
-        },
-        {
-            "name": "13.Wonder",
-            "youtubeLink": "https://youtu.be/ppL_15jZm_E?si=_8zIfDM2WZGBMnJl"
-        },
-        {
-            "name": "14.Broken Heart of Gold",
-            "youtubeLink": "https://youtu.be/wJ6FMjZkbMI?si=XOFylco6Jftl_UyH"
-        },
-        {
-            "name": "15.Gravity(feat.Satoshi Fujihara)[OFFICIAL HIGE DANDISM]",
-            "youtubeLink": "https://youtu.be/b6w86ywhN10?si=clnWYFLnLLx-iRr1"
+            "name": "Electro-Light - Symbolism",
+            "youtubeLink": "https://youtu.be/__CRWE-L45k?si=3vEihBDXhfRxHEpl",
+            "popularity": 210000000,
+            "data": "2014-11-28"
         }
     ]
+    },
+    {
+        "name" : "Lost Sky - Fearless",
+        "image" : "sample10.jpeg",
+        "songs" : [
+          {
+              "name": "Lost Sky - Fearless",
+              "youtubeLink": "https://youtu.be/S19UcWdOA-I?si=0EX8ESlIqee63oq9",
+              "popularity": 200000000,
+              "data": "2017-12-28"
+          }
+      ]
+    },
+    {
+        "name" : "Spektrem - Shine",
+        "image" : "sample11.jpeg",
+        "songs" : [
+          {
+              "name": "Spektrem - Shine",
+              "youtubeLink": "https://youtu.be/n4tK7LYFxI0?si=CHhPHSkE24vbjipZ",
+              "popularity": 160000000,
+              "data": "2013-05-06"
+          }
+      ]
+    },
+    {
+        "name" : "Julius Dresig & Zeus X Crona - Invisible",
+        "image" : "sample12.jpeg",
+        "songs" : [
+          {
+              "name": "Julius Dresig & Zeus X Crona - Invisible",
+              "youtubeLink": "https://youtu.be/QglaLzo_aPk?si=zhR3hKi2s0Buew2J",
+              "popularity": 140000000,
+              "data": "2018-10-28"
+          }
+      ]
+    },
+    {
+        "name" : "Unknown Brain - Superhero",
+        "image" : "sample13.jpeg",
+        "songs" : [
+          {
+              "name": "Unknown Brain - Superhero",
+              "youtubeLink": "https://youtu.be/LHvYrn3FAgI?si=xxxwstZ-NXOn_hI7",
+              "popularity": 130000000,
+              "data": "2016-11-28"
+          }
+      ]
     }
 ]
